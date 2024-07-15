@@ -1,0 +1,778 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/jeanb-g2/RIOT/build/pkg/esp8266_sdk/components/esp8266/lib/libcore.a(phy.o)
+                              /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_init.o (phy_reg_default)
+/home/jeanb-g2/RIOT/build/pkg/esp8266_sdk/components/esp8266/lib/libcore.a(uart.o)
+                              /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_init.o (uart_div_modify)
+
+Allocating common symbols
+Common symbol       size              file
+
+esp_image_spi_freq_t
+                    0x4               /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader/subproject/main/bootloader_start.o
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader/subproject/main/bootloader_start.o
+ .data          0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader/subproject/main/bootloader_start.o
+ .bss           0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader/subproject/main/bootloader_start.o
+ .xt.lit        0x0000000000000000        0x8 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader/subproject/main/bootloader_start.o
+ .xt.prop       0x0000000000000000       0x3c /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader/subproject/main/bootloader_start.o
+ COMMON         0x0000000000000000        0x4 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader/subproject/main/bootloader_start.o
+ .text          0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_clock.o
+ .data          0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_clock.o
+ .bss           0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_clock.o
+ .literal.bootloader_common_ota_select_crc
+                0x0000000000000000        0x4 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_common.o
+ .literal.bootloader_common_check_long_hold_gpio
+                0x0000000000000000       0x58 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_common.o
+ .text          0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_common.o
+ .data          0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_common.o
+ .bss           0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_common.o
+ .text.bootloader_common_ota_select_crc
+                0x0000000000000000       0x18 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_common.o
+ .text.bootloader_common_check_long_hold_gpio
+                0x0000000000000000      0x221 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_common.o
+ .xt.lit        0x0000000000000000       0x18 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_common.o
+ .xt.prop       0x0000000000000000      0x2a0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_common.o
+ .literal.bootloader_flash_write
+                0x0000000000000000        0xc /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_flash.o
+ .literal.bootloader_flash_erase_sector
+                0x0000000000000000        0x4 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_flash.o
+ .text          0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_flash.o
+ .data          0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_flash.o
+ .bss           0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_flash.o
+ .text.bootloader_flash_write
+                0x0000000000000000       0x5e /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_flash.o
+ .text.bootloader_flash_erase_sector
+                0x0000000000000000       0x15 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_flash.o
+ .xt.lit        0x0000000000000000       0x28 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_flash.o
+ .xt.prop       0x0000000000000000      0x150 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_flash.o
+ .text          0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_init.o
+ .data          0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_init.o
+ .bss           0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_init.o
+ .xt.lit        0x0000000000000000        0x8 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_init.o
+ .xt.prop       0x0000000000000000       0x48 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_init.o
+ .text          0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_random.o
+ .data          0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_random.o
+ .bss           0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_random.o
+ .literal.internal_sha256_process
+                0x0000000000000000        0x8 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_sha.o
+ .literal.bootloader_sha256_start
+                0x0000000000000000       0x28 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_sha.o
+ .literal.bootloader_sha256_data
+                0x0000000000000000       0x10 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_sha.o
+ .literal.bootloader_sha256_finish
+                0x0000000000000000        0xc /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_sha.o
+ .text          0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_sha.o
+ .data          0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_sha.o
+ .bss           0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_sha.o
+ .text.internal_sha256_process
+                0x0000000000000000      0x1ca /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_sha.o
+ .text.bootloader_sha256_start
+                0x0000000000000000       0x4b /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_sha.o
+ .text.bootloader_sha256_data
+                0x0000000000000000       0x97 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_sha.o
+ .text.bootloader_sha256_finish
+                0x0000000000000000      0x147 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_sha.o
+ .rodata.sha256_padding$2341
+                0x0000000000000000       0x40 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_sha.o
+ .bss.s_sha256  0x0000000000000000       0x68 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_sha.o
+ .rodata.K      0x0000000000000000      0x100 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_sha.o
+ .xt.lit        0x0000000000000000       0x20 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_sha.o
+ .xt.prop       0x0000000000000000      0x198 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_sha.o
+ .text          0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_utility.o
+ .data          0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_utility.o
+ .bss           0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_utility.o
+ .xt.lit        0x0000000000000000       0x28 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_utility.o
+ .xt.prop       0x0000000000000000      0x408 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_utility.o
+ .text          0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/efuse.o
+ .data          0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/efuse.o
+ .bss           0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/efuse.o
+ .literal.esp_image_verify_bootloader
+                0x0000000000000000        0x8 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/esp_image_format.o
+ .text          0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/esp_image_format.o
+ .data          0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/esp_image_format.o
+ .bss           0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/esp_image_format.o
+ .text.esp_image_verify_bootloader
+                0x0000000000000000       0x48 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/esp_image_format.o
+ .xt.lit        0x0000000000000000       0x10 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/esp_image_format.o
+ .xt.prop       0x0000000000000000      0x138 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/esp_image_format.o
+ .text          0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/flash_encrypt.o
+ .data          0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/flash_encrypt.o
+ .bss           0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/flash_encrypt.o
+ .text          0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/flash_partitions.o
+ .data          0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/flash_partitions.o
+ .bss           0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/flash_partitions.o
+ .xt.lit        0x0000000000000000        0x8 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/flash_partitions.o
+ .xt.prop       0x0000000000000000       0x90 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/flash_partitions.o
+ .text          0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/flash_qio_mode.o
+ .data          0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/flash_qio_mode.o
+ .bss           0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/flash_qio_mode.o
+ .text          0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/secure_boot.o
+ .data          0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/secure_boot.o
+ .bss           0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/secure_boot.o
+ .text          0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/secure_boot_signatures.o
+ .data          0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/secure_boot_signatures.o
+ .bss           0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/secure_boot_signatures.o
+ .literal.ets_putc
+                0x0000000000000000        0x8 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/esp8266/source/ets_printf.o
+ .literal.ets_vprintf
+                0x0000000000000000        0x8 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/esp8266/source/ets_printf.o
+ .literal.ets_printf
+                0x0000000000000000        0x8 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/esp8266/source/ets_printf.o
+ .text          0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/esp8266/source/ets_printf.o
+ .data          0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/esp8266/source/ets_printf.o
+ .bss           0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/esp8266/source/ets_printf.o
+ .text.ets_putc
+                0x0000000000000000       0x36 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/esp8266/source/ets_printf.o
+ .text.ets_vprintf
+                0x0000000000000000       0x1f /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/esp8266/source/ets_printf.o
+ .text.ets_printf
+                0x0000000000000000       0x43 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/esp8266/source/ets_printf.o
+ .xt.lit        0x0000000000000000       0x18 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/esp8266/source/ets_printf.o
+ .xt.prop       0x0000000000000000       0xb4 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/esp8266/source/ets_printf.o
+ .iram1.literal
+                0x0000000000000000       0x30 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/log/log.o
+ .text          0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/log/log.o
+ .data          0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/log/log.o
+ .bss           0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/log/log.o
+ .iram1         0x0000000000000000       0x96 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/log/log.o
+ .rodata.str1.4
+                0x0000000000000000       0x12 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/log/log.o
+ .rodata.s_log_prefix
+                0x0000000000000000        0x6 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/log/log.o
+ .xt.lit        0x0000000000000000        0x8 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/log/log.o
+ .xt.prop       0x0000000000000000       0x6c /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/log/log.o
+ .text          0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/port/port.o
+ .data          0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/port/port.o
+ .bss           0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/port/port.o
+ .literal.spi_flash_program
+                0x0000000000000000       0x20 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+ .literal.spi_flash_read$part$2
+                0x0000000000000000       0x30 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+ .literal.special_flash_read_status
+                0x0000000000000000        0x4 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+ .literal.spi_flash_get_id
+                0x0000000000000000        0xc /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+ .literal.spi_flash_read_status
+                0x0000000000000000        0xc /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+ .literal.spi_flash_write_status
+                0x0000000000000000        0xc /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+ .literal.spi_flash_check_wr_protect
+                0x0000000000000000       0x4c /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+ .literal.spi_flash_erase_sector
+                0x0000000000000000       0x18 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+ .literal.spi_flash_write
+                0x0000000000000000       0x40 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+ .literal.spi_flash_read
+                0x0000000000000000        0x8 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+ .literal.spi_flash_erase_range
+                0x0000000000000000       0x10 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+ .literal.spi_flash_cache2phys
+                0x0000000000000000       0x14 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+ .text          0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+ .data          0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+ .bss           0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+ .text.spi_flash_program
+                0x0000000000000000       0xce /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+ .text.spi_flash_read$part$2
+                0x0000000000000000      0x144 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+ .text.special_flash_read_status
+                0x0000000000000000       0x1f /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+ .text.spi_flash_get_id
+                0x0000000000000000       0x26 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+ .text.spi_flash_read_status
+                0x0000000000000000       0x28 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+ .text.spi_flash_write_status
+                0x0000000000000000       0x2a /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+ .text.spi_flash_check_wr_protect
+                0x0000000000000000      0x186 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+ .text.spi_flash_erase_sector
+                0x0000000000000000       0x57 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+ .text.spi_flash_write
+                0x0000000000000000      0x19e /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+ .text.spi_flash_read
+                0x0000000000000000       0x20 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+ .text.spi_flash_erase_range
+                0x0000000000000000       0x5d /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+ .text.spi_flash_cache2phys
+                0x0000000000000000       0x44 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+ .xt.lit        0x0000000000000000       0xa8 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+ .xt.prop       0x0000000000000000      0x8f4 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+ .literal.Cache_Read_Disable_2
+                0x0000000000000000       0x10 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash_raw.o
+ .literal.Cache_Read_Enable_2
+                0x0000000000000000        0xc /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash_raw.o
+ .literal.spi_flash_write_status_raw
+                0x0000000000000000       0x28 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash_raw.o
+ .literal.spi_flash_erase_sector_raw
+                0x0000000000000000       0x20 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash_raw.o
+ .literal.spi_flash_write_raw
+                0x0000000000000000       0x18 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash_raw.o
+ .literal.spi_flash_read_raw
+                0x0000000000000000       0x18 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash_raw.o
+ .text          0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash_raw.o
+ .data          0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash_raw.o
+ .bss           0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash_raw.o
+ .text.Cache_Read_Disable_2
+                0x0000000000000000       0x35 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash_raw.o
+ .text.Cache_Read_Enable_2
+                0x0000000000000000       0x28 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash_raw.o
+ .text.spi_flash_write_status_raw
+                0x0000000000000000       0xa6 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash_raw.o
+ .text.spi_flash_erase_sector_raw
+                0x0000000000000000       0x98 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash_raw.o
+ .text.spi_flash_write_raw
+                0x0000000000000000       0x6c /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash_raw.o
+ .text.spi_flash_read_raw
+                0x0000000000000000       0x6c /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash_raw.o
+ .xt.lit        0x0000000000000000       0x58 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash_raw.o
+ .xt.prop       0x0000000000000000      0x3cc /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash_raw.o
+ .literal.esp_base64_encode
+                0x0000000000000000       0x34 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/util/src/base64.o
+ .literal.esp_base64_decode
+                0x0000000000000000       0x30 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/util/src/base64.o
+ .text          0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/util/src/base64.o
+ .data          0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/util/src/base64.o
+ .bss           0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/util/src/base64.o
+ .rodata.str1.4
+                0x0000000000000000       0x65 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/util/src/base64.o
+ .text.esp_base64_encode
+                0x0000000000000000      0x1b7 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/util/src/base64.o
+ .text.esp_base64_decode
+                0x0000000000000000      0x1e6 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/util/src/base64.o
+ .rodata.__func__$1761
+                0x0000000000000000       0x12 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/util/src/base64.o
+ .rodata.__func__$1744
+                0x0000000000000000       0x12 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/util/src/base64.o
+ .rodata.s_base64_dec_lut
+                0x0000000000000000       0x80 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/util/src/base64.o
+ .rodata.s_base64_enc_lut
+                0x0000000000000000       0x40 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/util/src/base64.o
+ .xt.lit        0x0000000000000000       0x10 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/util/src/base64.o
+ .xt.prop       0x0000000000000000      0x300 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/util/src/base64.o
+ .literal.crc16_le
+                0x0000000000000000        0x4 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/util/src/crc.o
+ .literal.esp_crc8
+                0x0000000000000000        0x4 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/util/src/crc.o
+ .text          0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/util/src/crc.o
+ .data          0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/util/src/crc.o
+ .bss           0x0000000000000000        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/util/src/crc.o
+ .text.crc16_le
+                0x0000000000000000       0x34 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/util/src/crc.o
+ .text.esp_crc8
+                0x0000000000000000       0x28 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/util/src/crc.o
+ .rodata.crc8_le_table
+                0x0000000000000000      0x100 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/util/src/crc.o
+ .rodata.crc16_le_table
+                0x0000000000000000      0x200 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/util/src/crc.o
+ .xt.lit        0x0000000000000000       0x18 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/util/src/crc.o
+ .xt.prop       0x0000000000000000      0x108 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/util/src/crc.o
+ .literal.phy_reg_default
+                0x0000000000000000        0x0 /home/jeanb-g2/RIOT/build/pkg/esp8266_sdk/components/esp8266/lib/libcore.a(phy.o)
+ .text          0x0000000000000000        0x0 /home/jeanb-g2/RIOT/build/pkg/esp8266_sdk/components/esp8266/lib/libcore.a(phy.o)
+ .data          0x0000000000000000        0x0 /home/jeanb-g2/RIOT/build/pkg/esp8266_sdk/components/esp8266/lib/libcore.a(phy.o)
+ .bss           0x0000000000000000        0x0 /home/jeanb-g2/RIOT/build/pkg/esp8266_sdk/components/esp8266/lib/libcore.a(phy.o)
+ .xt.lit        0x0000000000000000        0x8 /home/jeanb-g2/RIOT/build/pkg/esp8266_sdk/components/esp8266/lib/libcore.a(phy.o)
+ .xt.prop       0x0000000000000000       0x48 /home/jeanb-g2/RIOT/build/pkg/esp8266_sdk/components/esp8266/lib/libcore.a(phy.o)
+ .literal.uart_buff_switch
+                0x0000000000000000        0x0 /home/jeanb-g2/RIOT/build/pkg/esp8266_sdk/components/esp8266/lib/libcore.a(uart.o)
+ .literal.uart_div_modify
+                0x0000000000000000        0x0 /home/jeanb-g2/RIOT/build/pkg/esp8266_sdk/components/esp8266/lib/libcore.a(uart.o)
+ .literal.Uart_Init
+                0x0000000000000000        0x0 /home/jeanb-g2/RIOT/build/pkg/esp8266_sdk/components/esp8266/lib/libcore.a(uart.o)
+ .text          0x0000000000000000        0x0 /home/jeanb-g2/RIOT/build/pkg/esp8266_sdk/components/esp8266/lib/libcore.a(uart.o)
+ .data          0x0000000000000000        0x0 /home/jeanb-g2/RIOT/build/pkg/esp8266_sdk/components/esp8266/lib/libcore.a(uart.o)
+ .bss           0x0000000000000000        0x0 /home/jeanb-g2/RIOT/build/pkg/esp8266_sdk/components/esp8266/lib/libcore.a(uart.o)
+ .text.uart_buff_switch
+                0x0000000000000000        0x2 /home/jeanb-g2/RIOT/build/pkg/esp8266_sdk/components/esp8266/lib/libcore.a(uart.o)
+ .text.Uart_Init
+                0x0000000000000000        0x2 /home/jeanb-g2/RIOT/build/pkg/esp8266_sdk/components/esp8266/lib/libcore.a(uart.o)
+ .xt.lit        0x0000000000000000        0x8 /home/jeanb-g2/RIOT/build/pkg/esp8266_sdk/components/esp8266/lib/libcore.a(uart.o)
+ .xt.prop       0x0000000000000000       0x78 /home/jeanb-g2/RIOT/build/pkg/esp8266_sdk/components/esp8266/lib/libcore.a(uart.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+dport0_seg       0x000000003ff00000 0x0000000000000010
+dram_seg         0x000000003ffe8000 0x0000000000017c00
+iram_seg         0x0000000040100000 0x0000000000008000
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+START GROUP
+LOAD /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader/subproject/main/bootloader_start.o
+LOAD /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_clock.o
+LOAD /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_common.o
+LOAD /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_flash.o
+LOAD /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_init.o
+LOAD /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_random.o
+LOAD /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_sha.o
+LOAD /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_utility.o
+LOAD /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/efuse.o
+LOAD /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/esp_image_format.o
+LOAD /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/flash_encrypt.o
+LOAD /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/flash_partitions.o
+LOAD /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/flash_qio_mode.o
+LOAD /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/secure_boot.o
+LOAD /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/secure_boot_signatures.o
+LOAD /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/esp8266/source/ets_printf.o
+LOAD /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/log/log.o
+LOAD /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/port/port.o
+LOAD /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+LOAD /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash_raw.o
+LOAD /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/util/src/base64.o
+LOAD /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/util/src/crc.o
+END GROUP
+LOAD /home/jeanb-g2/RIOT/build/pkg/esp8266_sdk/components/esp8266/lib/libgcc.a
+LOAD /home/jeanb-g2/esp/xtensa-esp8266-elf/bin/../lib/gcc/xtensa-esp8266-elf/5.2.0/../../../../xtensa-esp8266-elf/lib/libstdc++.a
+LOAD /home/jeanb-g2/esp/xtensa-esp8266-elf/bin/../lib/gcc/xtensa-esp8266-elf/5.2.0/libgcov.a
+LOAD /home/jeanb-g2/RIOT/build/pkg/esp8266_sdk/components/esp8266/lib/libcore.a
+                0x00000000400040c0                PROVIDE (SPI_sector_erase, 0x400040c0)
+                0x0000000040004174                PROVIDE (SPI_page_program, 0x40004174)
+                0x00000000400042ac                PROVIDE (SPI_read_data, 0x400042ac)
+                0x00000000400043c8                PROVIDE (SPI_read_status, 0x400043c8)
+                0x0000000040004400                PROVIDE (SPI_write_status, 0x40004400)
+                0x000000004000443c                PROVIDE (SPI_write_enable, 0x4000443c)
+                0x000000004000448c                PROVIDE (Wait_SPI_Idle, 0x4000448c)
+                0x00000000400044c0                PROVIDE (Enable_QMode, 0x400044c0)
+                [!provide]                        PROVIDE (Disable_QMode, 0x40004508)
+                0x0000000040004678                PROVIDE (Cache_Read_Enable, 0x40004678)
+                0x00000000400047f0                PROVIDE (Cache_Read_Disable, 0x400047f0)
+                [!provide]                        PROVIDE (lldesc_build_chain, 0x40004f40)
+                [!provide]                        PROVIDE (lldesc_num2link, 0x40005050)
+                [!provide]                        PROVIDE (lldesc_set_owner, 0x4000507c)
+                [!provide]                        PROVIDE (__adddf3, 0x4000c538)
+                [!provide]                        PROVIDE (__addsf3, 0x4000c180)
+                [!provide]                        PROVIDE (__divdf3, 0x4000cb94)
+                [!provide]                        PROVIDE (__divdi3, 0x4000ce60)
+                [!provide]                        PROVIDE (__divsi3, 0x4000dc88)
+                [!provide]                        PROVIDE (__extendsfdf2, 0x4000cdfc)
+                [!provide]                        PROVIDE (__fixdfsi, 0x4000ccb8)
+                [!provide]                        PROVIDE (__fixunsdfsi, 0x4000cd00)
+                [!provide]                        PROVIDE (__fixunssfsi, 0x4000c4c4)
+                [!provide]                        PROVIDE (__floatsidf, 0x4000e2f0)
+                [!provide]                        PROVIDE (__floatsisf, 0x4000e2ac)
+                [!provide]                        PROVIDE (__floatunsidf, 0x4000e2e8)
+                [!provide]                        PROVIDE (__floatunsisf, 0x4000e2a4)
+                [!provide]                        PROVIDE (__muldf3, 0x4000c8f0)
+                [!provide]                        PROVIDE (__muldi3, 0x40000650)
+                [!provide]                        PROVIDE (__mulsf3, 0x4000c3dc)
+                [!provide]                        PROVIDE (__subdf3, 0x4000c688)
+                [!provide]                        PROVIDE (__subsf3, 0x4000c268)
+                [!provide]                        PROVIDE (__truncdfsf2, 0x4000cd5c)
+                [!provide]                        PROVIDE (__udivdi3, 0x4000d310)
+                0x000000004000e21c                PROVIDE (__udivsi3, 0x4000e21c)
+                [!provide]                        PROVIDE (__umoddi3, 0x4000d770)
+                0x000000004000e268                PROVIDE (__umodsi3, 0x4000e268)
+                [!provide]                        PROVIDE (__umulsidi3, 0x4000dcf0)
+                [!provide]                        PROVIDE (bzero, 0x4000de84)
+                [!provide]                        PROVIDE (memcmp, 0x4000dea8)
+                0x000000004000df48                PROVIDE (memcpy, 0x4000df48)
+                [!provide]                        PROVIDE (memmove, 0x4000e04c)
+                0x000000004000e190                PROVIDE (memset, 0x4000e190)
+                [!provide]                        PROVIDE (strcmp, 0x4000bdc8)
+                [!provide]                        PROVIDE (strcpy, 0x4000bec8)
+                [!provide]                        PROVIDE (strlen, 0x4000bf4c)
+                [!provide]                        PROVIDE (strncmp, 0x4000bfa8)
+                [!provide]                        PROVIDE (strncpy, 0x4000c0a0)
+                [!provide]                        PROVIDE (strstr, 0x4000e1e0)
+                0x0000000040004cf0                PROVIDE (gpio_input_get, 0x40004cf0)
+                [!provide]                        PROVIDE (gpio_pin_wakeup_disable, 0x40004ed4)
+                [!provide]                        PROVIDE (gpio_pin_wakeup_enable, 0x40004e90)
+                0x0000000040001f00                PROVIDE (ets_io_vprintf, 0x40001f00)
+
+.text           0x0000000040100000     0x1170
+                0x0000000040100000                _stext = .
+                0x0000000040100000                _text_start = ABSOLUTE (.)
+                0x0000000040100000                . = ALIGN (0x10)
+ *(.entry.text)
+ *(.init.literal)
+ *(.init)
+ *(.literal .text .literal.* .text.* .stub .gnu.warning .gnu.linkonce.literal.* .gnu.linkonce.t.*.literal .gnu.linkonce.t.*)
+ .literal.call_start_cpu
+                0x0000000040100000        0x4 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader/subproject/main/bootloader_start.o
+                                         0x18 (size before relaxing)
+ .literal.bootloader_common_ota_select_valid
+                0x0000000040100004        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_common.o
+                                          0x4 (size before relaxing)
+ .literal.bootloader_mmap
+                0x0000000040100004       0x18 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_flash.o
+                                         0x1c (size before relaxing)
+ .literal.bootloader_munmap
+                0x000000004010001c        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_flash.o
+                                          0x8 (size before relaxing)
+ .literal.bootloader_flash_read
+                0x000000004010001c        0x4 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_flash.o
+ .literal.bootloader_init
+                0x0000000040100020        0x8 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_init.o
+                                         0x20 (size before relaxing)
+ .literal.try_load_partition$part$2
+                0x0000000040100028        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_utility.o
+                                          0x4 (size before relaxing)
+ .literal.bootloader_utility_load_partition_table
+                0x0000000040100028        0xc /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_utility.o
+                                         0x18 (size before relaxing)
+ .literal.bootloader_utility_get_selected_boot_partition
+                0x0000000040100034        0x8 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_utility.o
+                                         0x28 (size before relaxing)
+ .literal.bootloader_utility_load_boot_image
+                0x000000004010003c        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_utility.o
+                                         0x1c (size before relaxing)
+ .literal.bootloader_utility_load_image
+                0x000000004010003c        0x4 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_utility.o
+                                         0x10 (size before relaxing)
+ .literal.esp_image_load
+                0x0000000040100040        0x8 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/esp_image_format.o
+                                         0x18 (size before relaxing)
+ .literal.esp_partition_table_basic_verify
+                0x0000000040100048        0xc /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/flash_partitions.o
+                                         0x10 (size before relaxing)
+ .literal.spi_user_cmd
+                0x0000000040100054        0x4 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+                                          0xc (size before relaxing)
+ .literal.special_flash_read_status$part$0
+                0x0000000040100058        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+                                          0x4 (size before relaxing)
+ .literal.special_flash_write_status
+                0x0000000040100058        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+                                          0x8 (size before relaxing)
+ .literal.spi_flash_issi_enable_QIO_mode
+                0x0000000040100058        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+                                         0x14 (size before relaxing)
+ .literal.en25q16x_read_sfdp
+                0x0000000040100058        0x4 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+                                          0x8 (size before relaxing)
+ .literal.special_flash_set_mode
+                0x000000004010005c        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+                                          0x8 (size before relaxing)
+ .literal.en25q16x_write_volatile_status
+                0x000000004010005c        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+                                         0x14 (size before relaxing)
+ .literal.user_spi_flash_dio_to_qio_pre_init
+                0x000000004010005c       0x10 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+                                         0x3c (size before relaxing)
+ .literal.esp_spi_flash_init
+                0x000000004010006c       0x18 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+                                         0x1c (size before relaxing)
+ .literal.spi_flash_get_id_raw
+                0x0000000040100084       0x18 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash_raw.o
+                                         0x24 (size before relaxing)
+ .literal.spi_flash_read_status_raw
+                0x000000004010009c        0x8 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash_raw.o
+                                         0x18 (size before relaxing)
+ .literal.spi_flash_enable_qmode_raw
+                0x00000000401000a4        0x4 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash_raw.o
+                                         0x1c (size before relaxing)
+ .literal.spi_user_cmd_raw
+                0x00000000401000a8       0x64 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash_raw.o
+                                         0x94 (size before relaxing)
+ .literal.spi_flash_switch_to_qio_raw
+                0x000000004010010c        0x8 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash_raw.o
+                                          0xc (size before relaxing)
+ .literal.crc32_le
+                0x0000000040100114        0x4 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/util/src/crc.o
+ .text.call_start_cpu
+                0x0000000040100118       0x56 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader/subproject/main/bootloader_start.o
+                                         0x66 (size before relaxing)
+                0x0000000040100118                call_start_cpu
+ *fill*         0x000000004010016e        0x2 
+ .text.bootloader_common_ota_select_valid
+                0x0000000040100170       0x35 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_common.o
+                                         0x39 (size before relaxing)
+                0x0000000040100170                bootloader_common_ota_select_valid
+ *fill*         0x00000000401001a5        0x3 
+ .text.bootloader_mmap
+                0x00000000401001a8       0x5d /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_flash.o
+                0x00000000401001a8                bootloader_mmap
+ *fill*         0x0000000040100205        0x3 
+ .text.bootloader_munmap
+                0x0000000040100208       0x23 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_flash.o
+                0x0000000040100208                bootloader_munmap
+ *fill*         0x000000004010022b        0x1 
+ .text.bootloader_flash_read
+                0x000000004010022c       0x2d /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_flash.o
+                0x000000004010022c                bootloader_flash_read
+ *fill*         0x0000000040100259        0x3 
+ .text.bootloader_init
+                0x000000004010025c       0x56 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_init.o
+                                         0x62 (size before relaxing)
+                0x000000004010025c                bootloader_init
+ *fill*         0x00000000401002b2        0x2 
+ .text.try_load_partition$part$2
+                0x00000000401002b4       0x21 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_utility.o
+ *fill*         0x00000000401002d5        0x3 
+ .text.bootloader_utility_load_partition_table
+                0x00000000401002d8       0xd7 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_utility.o
+                                         0xdb (size before relaxing)
+                0x00000000401002d8                bootloader_utility_load_partition_table
+ *fill*         0x00000000401003af        0x1 
+ .text.bootloader_utility_get_selected_boot_partition
+                0x00000000401003b0       0xca /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_utility.o
+                                         0xd2 (size before relaxing)
+                0x00000000401003b0                bootloader_utility_get_selected_boot_partition
+ *fill*         0x000000004010047a        0x2 
+ .text.bootloader_utility_load_boot_image
+                0x000000004010047c       0xcd /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_utility.o
+                                         0xdd (size before relaxing)
+                0x000000004010047c                bootloader_utility_load_boot_image
+ *fill*         0x0000000040100549        0x3 
+ .text.bootloader_utility_load_image
+                0x000000004010054c       0x4d /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_utility.o
+                0x000000004010054c                bootloader_utility_load_image
+ *fill*         0x0000000040100599        0x3 
+ .text.esp_image_load
+                0x000000004010059c      0x129 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/esp_image_format.o
+                                        0x12d (size before relaxing)
+                0x000000004010059c                esp_image_load
+ *fill*         0x00000000401006c5        0x3 
+ .text.esp_partition_table_basic_verify
+                0x00000000401006c8       0x8b /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/flash_partitions.o
+                0x00000000401006c8                esp_partition_table_basic_verify
+ *fill*         0x0000000040100753        0x1 
+ .text.spi_user_cmd
+                0x0000000040100754       0x47 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+                0x0000000040100754                spi_user_cmd
+ *fill*         0x000000004010079b        0x1 
+ .text.special_flash_read_status$part$0
+                0x000000004010079c       0x2d /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+ *fill*         0x00000000401007c9        0x3 
+ .text.special_flash_write_status
+                0x00000000401007cc       0x50 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+                                         0x57 (size before relaxing)
+                0x00000000401007cc                special_flash_write_status
+ *fill*         0x000000004010081c        0x0 
+ .text.spi_flash_issi_enable_QIO_mode
+                0x000000004010081c       0x69 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+                                         0x75 (size before relaxing)
+ *fill*         0x0000000040100885        0x3 
+ .text.en25q16x_read_sfdp
+                0x0000000040100888       0x43 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+                0x0000000040100888                en25q16x_read_sfdp
+ *fill*         0x00000000401008cb        0x1 
+ .text.special_flash_set_mode
+                0x00000000401008cc       0x40 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+                                         0x44 (size before relaxing)
+                0x00000000401008cc                special_flash_set_mode
+ .text.en25q16x_write_volatile_status
+                0x000000004010090c       0x4f /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+                                         0x5b (size before relaxing)
+                0x000000004010090c                en25q16x_write_volatile_status
+ *fill*         0x000000004010095b        0x1 
+ .text.user_spi_flash_dio_to_qio_pre_init
+                0x000000004010095c       0xd1 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+                                         0xe5 (size before relaxing)
+                0x000000004010095c                user_spi_flash_dio_to_qio_pre_init
+ *fill*         0x0000000040100a2d        0x3 
+ .text.esp_spi_flash_init
+                0x0000000040100a30       0xb1 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+                                         0xb5 (size before relaxing)
+                0x0000000040100a30                esp_spi_flash_init
+ *fill*         0x0000000040100ae1        0x3 
+ .text.spi_flash_get_id_raw
+                0x0000000040100ae4       0x6c /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash_raw.o
+                0x0000000040100ae4                spi_flash_get_id_raw
+ .text.spi_flash_read_status_raw
+                0x0000000040100b50       0x6c /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash_raw.o
+                0x0000000040100b50                spi_flash_read_status_raw
+ .text.spi_flash_enable_qmode_raw
+                0x0000000040100bbc       0x85 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash_raw.o
+                0x0000000040100bbc                spi_flash_enable_qmode_raw
+ *fill*         0x0000000040100c41        0x3 
+ .text.spi_user_cmd_raw
+                0x0000000040100c44      0x410 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash_raw.o
+                0x0000000040100c44                spi_user_cmd_raw
+ .text.spi_flash_switch_to_qio_raw
+                0x0000000040101054       0x25 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash_raw.o
+                0x0000000040101054                spi_flash_switch_to_qio_raw
+ *fill*         0x0000000040101079        0x3 
+ .text.crc32_le
+                0x000000004010107c       0x2c /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/util/src/crc.o
+                0x000000004010107c                crc32_le
+ .text.phy_reg_default
+                0x00000000401010a8       0x36 /home/jeanb-g2/RIOT/build/pkg/esp8266_sdk/components/esp8266/lib/libcore.a(phy.o)
+                0x00000000401010b8                phy_reg_default
+ *fill*         0x00000000401010de        0x2 
+ .text.uart_div_modify
+                0x00000000401010e0       0x50 /home/jeanb-g2/RIOT/build/pkg/esp8266_sdk/components/esp8266/lib/libcore.a(uart.o)
+                0x00000000401010f0                uart_div_modify
+ *fill*         0x0000000040101130        0x0 
+ *fill*         0x0000000040101130        0x0 
+ *fill*         0x0000000040101130        0x0 
+ *fill*         0x0000000040101130        0x0 
+ *fill*         0x0000000040101130        0x0 
+ *fill*         0x0000000040101130        0x0 
+ .text.index_to_partition
+                0x0000000040101130       0x40 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_utility.o
+ *fill*         0x0000000040101170        0x0 
+ *fill*         0x0000000040101170        0x0 
+ *fill*         0x0000000040101170        0x0 
+ *fill*         0x0000000040101170        0x0 
+ *fill*         0x0000000040101170        0x0 
+ *fill*         0x0000000040101170        0x0 
+ *fill*         0x0000000040101170        0x0 
+ *fill*         0x0000000040101170        0x0 
+ *fill*         0x0000000040101170        0x0 
+ *fill*         0x0000000040101170        0x0 
+ *fill*         0x0000000040101170        0x0 
+ *fill*         0x0000000040101170        0x0 
+ *fill*         0x0000000040101170        0x0 
+ *fill*         0x0000000040101170        0x0 
+ *fill*         0x0000000040101170        0x0 
+ *fill*         0x0000000040101170        0x0 
+ *fill*         0x0000000040101170        0x0 
+ *fill*         0x0000000040101170        0x0 
+ *(.iram1 .iram1.*)
+ *(.fini.literal)
+ *(.fini)
+ *(.gnu.version)
+                0x0000000040101170                _text_end = ABSOLUTE (.)
+                0x0000000040101170                _etext = .
+
+.bss            0x000000003ffe8000        0x8
+                0x000000003ffe8000                . = ALIGN (0x8)
+                0x000000003ffe8000                _bss_start = ABSOLUTE (.)
+ *(.dynsbss)
+ *(.sbss)
+ *(.sbss.*)
+ *(.gnu.linkonce.sb.*)
+ *(.scommon)
+ *(.sbss2)
+ *(.sbss2.*)
+ *(.gnu.linkonce.sb2.*)
+ *(.dynbss)
+ *(.bss)
+ *(.bss.*)
+ .bss.mapped    0x000000003ffe8000        0x1 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_flash.o
+ .bss.FlashIsOnGoing
+                0x000000003ffe8001        0x1 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+                0x000000003ffe8001                FlashIsOnGoing
+ *(.gnu.linkonce.b.*)
+ *(COMMON)
+                0x000000003ffe8008                . = ALIGN (0x8)
+ *fill*         0x000000003ffe8002        0x6 
+                0x000000003ffe8008                _bss_end = ABSOLUTE (.)
+
+.data           0x000000003ffe8008       0x18
+                0x000000003ffe8008                _data_start = ABSOLUTE (.)
+ *(.data)
+ *(.data.*)
+ .data.flashchip
+                0x000000003ffe8008       0x18 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+                0x000000003ffe8008                flashchip
+ *(.gnu.linkonce.d.*)
+ *(.data1)
+ *(.sdata)
+ *(.sdata.*)
+ *(.gnu.linkonce.s.*)
+ *(.sdata2)
+ *(.sdata2.*)
+ *(.gnu.linkonce.s2.*)
+ *(.jcr)
+                0x000000003ffe8020                _data_end = ABSOLUTE (.)
+
+.rodata         0x000000003ffe8020      0x400
+                0x000000003ffe8020                _rodata_start = ABSOLUTE (.)
+ *(.rodata)
+ *(.rodata.*)
+ .rodata.crc32_le_table
+                0x000000003ffe8020      0x400 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/util/src/crc.o
+ *(.gnu.linkonce.r.*)
+ *(.rodata1)
+                0x000000003ffe8420                __XT_EXCEPTION_TABLE_ = ABSOLUTE (.)
+ *(.xt_except_table)
+ *(.gcc_except_table)
+ *(.gnu.linkonce.e.*)
+ *(.gnu.version_r)
+ *(.eh_frame)
+                0x000000003ffe8420                . = ((. + 0x3) & 0xfffffffffffffffc)
+                0x000000003ffe8420                __init_array_start = ABSOLUTE (.)
+ *crtbegin.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+                0x000000003ffe8420                __init_array_end = ABSOLUTE (.)
+ *crtbegin.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+                0x000000003ffe8420                __XT_EXCEPTION_DESCS_ = ABSOLUTE (.)
+ *(.xt_except_desc)
+ *(.gnu.linkonce.h.*)
+                0x000000003ffe8420                __XT_EXCEPTION_DESCS_END__ = ABSOLUTE (.)
+ *(.xt_except_desc_end)
+ *(.dynamic)
+ *(.gnu.version_d)
+                0x000000003ffe8420                _rodata_end = ABSOLUTE (.)
+                0x000000003ffe8420                _lit4_start = ABSOLUTE (.)
+ *(*.lit4)
+ *(.lit4.*)
+ *(.gnu.linkonce.lit4.*)
+                0x000000003ffe8420                _lit4_end = ABSOLUTE (.)
+                0x000000003ffe8420                . = ALIGN (0x4)
+                0x000000003ffe8420                _heap_start = ABSOLUTE (.)
+                [!provide]                        PROVIDE (ets_memcpy, 0x400018b4)
+                0x0000000040004b1c                PROVIDE (SPIRead, 0x40004b1c)
+                0x0000000040004a4c                PROVIDE (SPIWrite, 0x40004a4c)
+                0x0000000040004a00                PROVIDE (SPIEraseSector, 0x40004a00)
+                [!provide]                        PROVIDE (gpio_input_get, 0x40004cf0)
+                0x000000004000dd38                PROVIDE (xthal_get_ccount, 0x4000dd38)
+                [!provide]                        PROVIDE (uart_div_modify, 0x400039d8)
+                [!provide]                        PROVIDE (ets_io_vprintf, 0x40001f00)
+OUTPUT(/home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/bootloader.elf elf32-xtensa-le)
+
+.comment        0x0000000000000000       0x75
+ .comment       0x0000000000000000       0x3b /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader/subproject/main/bootloader_start.o
+                                         0x3c (size before relaxing)
+ .comment       0x000000000000003b       0x3c /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_clock.o
+ .comment       0x000000000000003b       0x3c /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_common.o
+ .comment       0x000000000000003b       0x3c /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_flash.o
+ .comment       0x000000000000003b       0x3c /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_init.o
+ .comment       0x000000000000003b       0x3c /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_random.o
+ .comment       0x000000000000003b       0x3c /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_sha.o
+ .comment       0x000000000000003b       0x3c /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_utility.o
+ .comment       0x000000000000003b       0x3c /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/efuse.o
+ .comment       0x000000000000003b       0x3c /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/esp_image_format.o
+ .comment       0x000000000000003b       0x3c /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/flash_encrypt.o
+ .comment       0x000000000000003b       0x3c /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/flash_partitions.o
+ .comment       0x000000000000003b       0x3c /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/flash_qio_mode.o
+ .comment       0x000000000000003b       0x3c /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/secure_boot.o
+ .comment       0x000000000000003b       0x3c /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/secure_boot_signatures.o
+ .comment       0x000000000000003b       0x3c /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/esp8266/source/ets_printf.o
+ .comment       0x000000000000003b       0x3c /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/log/log.o
+ .comment       0x000000000000003b       0x3c /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/port/port.o
+ .comment       0x000000000000003b       0x3c /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+ .comment       0x000000000000003b       0x3c /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash_raw.o
+ .comment       0x000000000000003b       0x3c /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/util/src/base64.o
+ .comment       0x000000000000003b       0x3c /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/util/src/crc.o
+ .comment       0x000000000000003b       0x3a /home/jeanb-g2/RIOT/build/pkg/esp8266_sdk/components/esp8266/lib/libcore.a(phy.o)
+                                         0x3b (size before relaxing)
+ .comment       0x0000000000000075       0x3b /home/jeanb-g2/RIOT/build/pkg/esp8266_sdk/components/esp8266/lib/libcore.a(uart.o)
+
+.xtensa.info    0x0000000000000000       0x38
+ .xtensa.info   0x0000000000000000       0x38 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader/subproject/main/bootloader_start.o
+ .xtensa.info   0x0000000000000038        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_clock.o
+ .xtensa.info   0x0000000000000038        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_common.o
+ .xtensa.info   0x0000000000000038        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_flash.o
+ .xtensa.info   0x0000000000000038        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_init.o
+ .xtensa.info   0x0000000000000038        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_random.o
+ .xtensa.info   0x0000000000000038        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_sha.o
+ .xtensa.info   0x0000000000000038        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/bootloader_utility.o
+ .xtensa.info   0x0000000000000038        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/efuse.o
+ .xtensa.info   0x0000000000000038        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/esp_image_format.o
+ .xtensa.info   0x0000000000000038        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/flash_encrypt.o
+ .xtensa.info   0x0000000000000038        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/flash_partitions.o
+ .xtensa.info   0x0000000000000038        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/flash_qio_mode.o
+ .xtensa.info   0x0000000000000038        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/secure_boot.o
+ .xtensa.info   0x0000000000000038        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/bootloader_support/src/secure_boot_signatures.o
+ .xtensa.info   0x0000000000000038        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/esp8266/source/ets_printf.o
+ .xtensa.info   0x0000000000000038        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/log/log.o
+ .xtensa.info   0x0000000000000038        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/port/port.o
+ .xtensa.info   0x0000000000000038        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash.o
+ .xtensa.info   0x0000000000000038        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/spi_flash/src/spi_flash_raw.o
+ .xtensa.info   0x0000000000000038        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/util/src/base64.o
+ .xtensa.info   0x0000000000000038        0x0 /home/jeanb-g2/RIOT/examples/server_global_ip/bin/esp8266-esp-12x/esp_bootloader/components/util/src/crc.o
+ .xtensa.info   0x0000000000000038        0x0 /home/jeanb-g2/RIOT/build/pkg/esp8266_sdk/components/esp8266/lib/libcore.a(phy.o)
+ .xtensa.info   0x0000000000000038        0x0 /home/jeanb-g2/RIOT/build/pkg/esp8266_sdk/components/esp8266/lib/libcore.a(uart.o)
