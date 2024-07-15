@@ -1,0 +1,293 @@
+/home/vanessa/RIOT/examples/client-pulso/bin/esp8266-esp-12x/newlib_syscalls_default/syscalls.o: \
+ /home/vanessa/RIOT/sys/newlib_syscalls_default/syscalls.c \
+ /home/vanessa/RIOT/examples/client-pulso/bin/esp8266-esp-12x/riotbuild/riotbuild.h \
+ /home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/errno.h \
+ /home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/sys/errno.h \
+ /home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/sys/reent.h \
+ /home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/_ansi.h \
+ /home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/newlib.h \
+ /home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/sys/config.h \
+ /home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/machine/ieeefp.h \
+ /home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/sys/features.h \
+ /home/vanessa/RIOT/build/pkg/esp8266_sdk/components/esp8266/include/xtensa/config/core-isa.h \
+ /home/vanessa/esp/xtensa-esp8266-elf/lib/gcc/xtensa-esp8266-elf/5.2.0/include/stddef.h \
+ /home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/sys/_types.h \
+ /home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/machine/_types.h \
+ /home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/machine/_default_types.h \
+ /home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/sys/lock.h \
+ /home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/malloc.h \
+ /home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/machine/malloc.h \
+ /home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/reent.h \
+ /home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/machine/types.h \
+ /home/vanessa/esp/xtensa-esp8266-elf/lib/gcc/xtensa-esp8266-elf/5.2.0/include/stdint.h \
+ /home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/stdint.h \
+ /home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/sys/_intsup.h \
+ /home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/stdio.h \
+ /home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/_ansi.h \
+ /home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/sys/cdefs.h \
+ /home/vanessa/esp/xtensa-esp8266-elf/lib/gcc/xtensa-esp8266-elf/5.2.0/include/stdarg.h \
+ /home/vanessa/RIOT/cpu/esp8266/include/sys/types.h \
+ /home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/sys/stdio.h \
+ /home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/sys/stat.h \
+ /home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/time.h \
+ /home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/machine/time.h \
+ /home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/sys/times.h \
+ /home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/sys/unistd.h \
+ /home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/unistd.h \
+ /home/vanessa/RIOT/core/lib/include/log.h \
+ /home/vanessa/RIOT/cpu/esp_common/include/log_module.h \
+ /home/vanessa/RIOT/cpu/esp_common/include/esp_common_log.h \
+ /home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/inttypes.h \
+ /home/vanessa/RIOT/core/lib/include/modules.h \
+ /home/vanessa/RIOT/drivers/include/periph/pm.h \
+ /home/vanessa/RIOT/cpu/esp8266/include/periph_cpu.h \
+ /home/vanessa/esp/xtensa-esp8266-elf/lib/gcc/xtensa-esp8266-elf/5.2.0/include-fixed/limits.h \
+ /home/vanessa/esp/xtensa-esp8266-elf/lib/gcc/xtensa-esp8266-elf/5.2.0/include-fixed/syslimits.h \
+ /home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/limits.h \
+ /home/vanessa/RIOT/build/pkg/esp8266_sdk/components/esp8266/include/esp8266/eagle_soc.h \
+ /home/vanessa/RIOT/cpu/esp8266/include/cpu_conf.h \
+ /home/vanessa/RIOT/cpu/esp_common/include/cpu_conf_common.h \
+ /home/vanessa/RIOT/cpu/esp_common/include/xtensa_conf.h \
+ /home/vanessa/RIOT/core/lib/include/macros/units.h \
+ /home/vanessa/RIOT/core/include/sched.h \
+ /home/vanessa/RIOT/core/lib/include/kernel_defines.h \
+ /home/vanessa/RIOT/core/lib/include/modules.h \
+ /home/vanessa/RIOT/core/lib/include/riot_version.h \
+ /home/vanessa/RIOT/core/lib/include/compiler_hints.h \
+ /home/vanessa/RIOT/core/lib/include/assert.h \
+ /home/vanessa/RIOT/core/lib/include/container.h \
+ /home/vanessa/RIOT/core/include/native_sched.h \
+ /home/vanessa/RIOT/core/lib/include/clist.h \
+ /home/vanessa/esp/xtensa-esp8266-elf/lib/gcc/xtensa-esp8266-elf/5.2.0/include/stdbool.h \
+ /home/vanessa/RIOT/core/lib/include/list.h \
+ /home/vanessa/RIOT/sys/include/stdio_base.h \
+ /home/vanessa/RIOT/sys/include/isrpipe.h \
+ /home/vanessa/RIOT/core/include/mutex.h \
+ /home/vanessa/RIOT/sys/include/architecture.h \
+ /home/vanessa/RIOT/cpu/esp_common/include/architecture_arch.h \
+ /home/vanessa/RIOT/core/lib/include/list.h \
+ /home/vanessa/RIOT/core/include/thread.h \
+ /home/vanessa/RIOT/core/lib/include/cib.h \
+ /home/vanessa/RIOT/core/lib/include/assert.h \
+ /home/vanessa/RIOT/core/include/msg.h \
+ /home/vanessa/RIOT/core/include/sched.h \
+ /home/vanessa/RIOT/core/lib/include/thread_config.h \
+ /home/vanessa/RIOT/cpu/esp8266/include/cpu_conf.h \
+ /home/vanessa/RIOT/core/include/thread_flags.h \
+ /home/vanessa/RIOT/cpu/esp_common/include/thread_arch.h \
+ /home/vanessa/RIOT/sys/include/tsrb.h \
+ /home/vanessa/RIOT/core/lib/include/irq.h \
+ /home/vanessa/RIOT/core/lib/include/xfa.h \
+ /home/vanessa/RIOT/core/include/thread.h \
+ /home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/sys/time.h \
+ /home/vanessa/RIOT/sys/include/div.h \
+ /home/vanessa/RIOT/sys/include/xtimer.h \
+ /home/vanessa/RIOT/sys/include/timex.h \
+ /home/vanessa/RIOT/sys/include/time_units.h \
+ /home/vanessa/RIOT/core/include/msg.h \
+ /home/vanessa/RIOT/core/lib/include/rmutex.h \
+ /home/vanessa/RIOT/sys/include/ztimer/xtimer_compat.h \
+ /home/vanessa/RIOT/boards/esp8266-esp-12x/include/board.h \
+ /home/vanessa/RIOT/boards/common/esp8266/include/board_common.h \
+ /home/vanessa/RIOT/cpu/esp_common/include/cpu.h \
+ /home/vanessa/RIOT/boards/esp8266-esp-12x/include/periph_conf.h \
+ /home/vanessa/RIOT/boards/common/esp8266/include/periph_conf_common.h \
+ /home/vanessa/RIOT/boards/common/esp8266/include/periph_conf_common.h \
+ /home/vanessa/RIOT/drivers/include/periph/gpio.h \
+ /home/vanessa/RIOT/boards/common/esp8266/include/board_modules.h \
+ /home/vanessa/RIOT/sys/include/timex.h \
+ /home/vanessa/RIOT/sys/include/ztimer.h
+
+/home/vanessa/RIOT/examples/client-pulso/bin/esp8266-esp-12x/riotbuild/riotbuild.h:
+
+/home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/errno.h:
+
+/home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/sys/errno.h:
+
+/home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/sys/reent.h:
+
+/home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/_ansi.h:
+
+/home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/newlib.h:
+
+/home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/sys/config.h:
+
+/home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/machine/ieeefp.h:
+
+/home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/sys/features.h:
+
+/home/vanessa/RIOT/build/pkg/esp8266_sdk/components/esp8266/include/xtensa/config/core-isa.h:
+
+/home/vanessa/esp/xtensa-esp8266-elf/lib/gcc/xtensa-esp8266-elf/5.2.0/include/stddef.h:
+
+/home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/sys/_types.h:
+
+/home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/machine/_types.h:
+
+/home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/machine/_default_types.h:
+
+/home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/sys/lock.h:
+
+/home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/malloc.h:
+
+/home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/machine/malloc.h:
+
+/home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/reent.h:
+
+/home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/machine/types.h:
+
+/home/vanessa/esp/xtensa-esp8266-elf/lib/gcc/xtensa-esp8266-elf/5.2.0/include/stdint.h:
+
+/home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/stdint.h:
+
+/home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/sys/_intsup.h:
+
+/home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/stdio.h:
+
+/home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/_ansi.h:
+
+/home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/sys/cdefs.h:
+
+/home/vanessa/esp/xtensa-esp8266-elf/lib/gcc/xtensa-esp8266-elf/5.2.0/include/stdarg.h:
+
+/home/vanessa/RIOT/cpu/esp8266/include/sys/types.h:
+
+/home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/sys/stdio.h:
+
+/home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/sys/stat.h:
+
+/home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/time.h:
+
+/home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/machine/time.h:
+
+/home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/sys/times.h:
+
+/home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/sys/unistd.h:
+
+/home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/unistd.h:
+
+/home/vanessa/RIOT/core/lib/include/log.h:
+
+/home/vanessa/RIOT/cpu/esp_common/include/log_module.h:
+
+/home/vanessa/RIOT/cpu/esp_common/include/esp_common_log.h:
+
+/home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/inttypes.h:
+
+/home/vanessa/RIOT/core/lib/include/modules.h:
+
+/home/vanessa/RIOT/drivers/include/periph/pm.h:
+
+/home/vanessa/RIOT/cpu/esp8266/include/periph_cpu.h:
+
+/home/vanessa/esp/xtensa-esp8266-elf/lib/gcc/xtensa-esp8266-elf/5.2.0/include-fixed/limits.h:
+
+/home/vanessa/esp/xtensa-esp8266-elf/lib/gcc/xtensa-esp8266-elf/5.2.0/include-fixed/syslimits.h:
+
+/home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/limits.h:
+
+/home/vanessa/RIOT/build/pkg/esp8266_sdk/components/esp8266/include/esp8266/eagle_soc.h:
+
+/home/vanessa/RIOT/cpu/esp8266/include/cpu_conf.h:
+
+/home/vanessa/RIOT/cpu/esp_common/include/cpu_conf_common.h:
+
+/home/vanessa/RIOT/cpu/esp_common/include/xtensa_conf.h:
+
+/home/vanessa/RIOT/core/lib/include/macros/units.h:
+
+/home/vanessa/RIOT/core/include/sched.h:
+
+/home/vanessa/RIOT/core/lib/include/kernel_defines.h:
+
+/home/vanessa/RIOT/core/lib/include/modules.h:
+
+/home/vanessa/RIOT/core/lib/include/riot_version.h:
+
+/home/vanessa/RIOT/core/lib/include/compiler_hints.h:
+
+/home/vanessa/RIOT/core/lib/include/assert.h:
+
+/home/vanessa/RIOT/core/lib/include/container.h:
+
+/home/vanessa/RIOT/core/include/native_sched.h:
+
+/home/vanessa/RIOT/core/lib/include/clist.h:
+
+/home/vanessa/esp/xtensa-esp8266-elf/lib/gcc/xtensa-esp8266-elf/5.2.0/include/stdbool.h:
+
+/home/vanessa/RIOT/core/lib/include/list.h:
+
+/home/vanessa/RIOT/sys/include/stdio_base.h:
+
+/home/vanessa/RIOT/sys/include/isrpipe.h:
+
+/home/vanessa/RIOT/core/include/mutex.h:
+
+/home/vanessa/RIOT/sys/include/architecture.h:
+
+/home/vanessa/RIOT/cpu/esp_common/include/architecture_arch.h:
+
+/home/vanessa/RIOT/core/lib/include/list.h:
+
+/home/vanessa/RIOT/core/include/thread.h:
+
+/home/vanessa/RIOT/core/lib/include/cib.h:
+
+/home/vanessa/RIOT/core/lib/include/assert.h:
+
+/home/vanessa/RIOT/core/include/msg.h:
+
+/home/vanessa/RIOT/core/include/sched.h:
+
+/home/vanessa/RIOT/core/lib/include/thread_config.h:
+
+/home/vanessa/RIOT/cpu/esp8266/include/cpu_conf.h:
+
+/home/vanessa/RIOT/core/include/thread_flags.h:
+
+/home/vanessa/RIOT/cpu/esp_common/include/thread_arch.h:
+
+/home/vanessa/RIOT/sys/include/tsrb.h:
+
+/home/vanessa/RIOT/core/lib/include/irq.h:
+
+/home/vanessa/RIOT/core/lib/include/xfa.h:
+
+/home/vanessa/RIOT/core/include/thread.h:
+
+/home/vanessa/esp/xtensa-esp8266-elf/xtensa-esp8266-elf/include/sys/time.h:
+
+/home/vanessa/RIOT/sys/include/div.h:
+
+/home/vanessa/RIOT/sys/include/xtimer.h:
+
+/home/vanessa/RIOT/sys/include/timex.h:
+
+/home/vanessa/RIOT/sys/include/time_units.h:
+
+/home/vanessa/RIOT/core/include/msg.h:
+
+/home/vanessa/RIOT/core/lib/include/rmutex.h:
+
+/home/vanessa/RIOT/sys/include/ztimer/xtimer_compat.h:
+
+/home/vanessa/RIOT/boards/esp8266-esp-12x/include/board.h:
+
+/home/vanessa/RIOT/boards/common/esp8266/include/board_common.h:
+
+/home/vanessa/RIOT/cpu/esp_common/include/cpu.h:
+
+/home/vanessa/RIOT/boards/esp8266-esp-12x/include/periph_conf.h:
+
+/home/vanessa/RIOT/boards/common/esp8266/include/periph_conf_common.h:
+
+/home/vanessa/RIOT/boards/common/esp8266/include/periph_conf_common.h:
+
+/home/vanessa/RIOT/drivers/include/periph/gpio.h:
+
+/home/vanessa/RIOT/boards/common/esp8266/include/board_modules.h:
+
+/home/vanessa/RIOT/sys/include/timex.h:
+
+/home/vanessa/RIOT/sys/include/ztimer.h:
